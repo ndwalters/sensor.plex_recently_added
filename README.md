@@ -10,7 +10,7 @@ This component does not require, nor conflict with, the default Plex components.
 [maykar](https://github.com/maykar)
 </br>
 
-## Installation as HACS (Custom Repositories):
+## Installation in HACS (Custom Repositories):
 
 1. Select HACS in Home Assistant
 2. Go to any of the sections (integrations, frontend, automation).
