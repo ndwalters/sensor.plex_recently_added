@@ -4,6 +4,9 @@
     "version": "0.3.8",
     "documentation": "https://github.com/custom-components/sensor.plex_recently_added",
     "dependencies": [],
-    "codeowners": ["@maykar"],
+    "codeowners": [
+      "@maykar",
+      "@ndwalters"
+    ],
     "requirements": []
   }
